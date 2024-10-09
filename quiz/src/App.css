@@ -1,0 +1,21 @@
+*{
+  text-align: center;
+}
+
+#submit{
+  margin:20px;
+  padding:5px 20px;
+  background-color:blueviolet;
+  border: none;
+  font-size: medium;
+  color: aliceblue;
+}
+
+#quizform{
+  margin-top: 50px;
+}
+
+label{
+  display:block;
+  margin:10px 0px
+}
